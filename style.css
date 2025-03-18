@@ -30,7 +30,7 @@ body {
 #main {
     /* width: 100%; */
     background-color: #133ACD;
-    overflow-x: hidden;
+    overflow: hidden;
     position: relative;
 }
 
